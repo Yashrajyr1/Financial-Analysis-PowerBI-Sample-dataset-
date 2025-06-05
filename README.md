@@ -48,5 +48,6 @@ The Power BI Financial dataset (Sample dataset) includes details like:
 
 ## 👨‍💻 Author
 **Yashraj Singh**  
-📧 yashrajsingh2288@gmail.com  
-🔗 [GitHub] [https://github.com/Yashrajyr1] | [LinkedIn] [https://www.linkedin.com/in/yashrajsingh-/]
+- 📧 yashrajsingh2288@gmail.com  
+- 🔗 [GitHub] [https://github.com/Yashrajyr1] 
+- 🔗 [LinkedIn] [https://www.linkedin.com/in/yashrajsingh-/]
